@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hello</title>
-    <url>/posts/3610a686/</url>
-    <content><![CDATA[<p>欢迎来到我的博客</p>
-]]></content>
-      <tags>
-        <tag>hello</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>blog</title>
     <url>/posts/c0155143/</url>
     <content><![CDATA[<h2 id="搭建hexo-blog"><a href="#搭建hexo-blog" class="headerlink" title="搭建hexo blog"></a>搭建hexo blog</h2><p>首先安装以下软件包</p>
@@ -17,6 +8,7 @@
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">npm install hexo --save</span><br></pre></td></tr></table></figure>
 <p> 新建文件夹用于存放博客文件</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">mkdir blog</span><br></pre></td></tr></table></figure>
+<span id="more"></span>
 <p> 设置git数据</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo init</span><br><span class="line">git config --global user.name &quot;你的github用户名&quot;</span><br><span class="line">git config --global user.email &quot;注册github的邮箱&quot;</span><br><span class="line">git init</span><br><span class="line">git remote add origin git@github.com:你的github用户名/你的github用户名.github.io.git</span><br></pre></td></tr></table></figure>
 <p> 安装openssh</p>
@@ -28,5 +20,14 @@
  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
 ]]></content>
+  </entry>
+  <entry>
+    <title>hello</title>
+    <url>/posts/3610a686/</url>
+    <content><![CDATA[<p>欢迎来到我的博客</p>
+]]></content>
+      <tags>
+        <tag>hello</tag>
+      </tags>
   </entry>
 </search>

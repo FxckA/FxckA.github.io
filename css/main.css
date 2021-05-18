@@ -1315,7 +1315,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #77ffed;
+  background: #30ff0e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2534,16 +2534,9 @@ embed {
   white-space: nowrap;
 }
 body {
-  background: url("https://3650000.xyz/api/360.php?cid=6");
+  background: url("https://api.btstu.cn/sjbz/zsy.php");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
-}
-.main-inner {
-  background: #fff;
-  opacity: 0.89;
-}
-.header-inner {
-  opacity: 0.89;
 }

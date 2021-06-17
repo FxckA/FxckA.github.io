@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hello</title>
-    <url>/hacker/3610a686/</url>
-    <content><![CDATA[<p>欢迎来到我的博客</p>
-]]></content>
-      <tags>
-        <tag>hello</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>blog</title>
     <url>/hacker/c0155143/</url>
     <content><![CDATA[<h2 id="搭建hexo-blog"><a href="#搭建hexo-blog" class="headerlink" title="搭建hexo blog"></a>搭建hexo blog</h2><p>首先安装以下软件包</p>
@@ -29,5 +20,14 @@
  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
 ]]></content>
+  </entry>
+  <entry>
+    <title>hello</title>
+    <url>/hacker/3610a686/</url>
+    <content><![CDATA[<p>欢迎来到我的博客</p>
+]]></content>
+      <tags>
+        <tag>hello</tag>
+      </tags>
   </entry>
 </search>
